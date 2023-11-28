@@ -310,3 +310,7 @@ header{
     -webkit-animation-delay: 2s, 0.5s ;
     animation-delay: 2s, 0.5s;
   }
+
+.thumb:hover {
+    transform: scale(1.05);
+  }
